@@ -1,7 +1,9 @@
 # README
 
+Added to NASADatanauts in case anyone wants to reuse any part of this.
+
 Welcome to the EONET event searching and mapping tool.
-This can be viewed at http://wayward710.github.io/indy2016
+This can be viewed at https://nasadatanauts.github.io/eonet-map/
 
 
 This application was developed for the 2016 NASA Space Apps Challenge in Indianapolis, IN.
