@@ -453,7 +453,7 @@ $(function() {
         // Let's support an 'All' category so it's easy to get results
         if (eonet_cat == 'All') {
             console.log('searching all');
-            eonet_url = "http://eonet.sci.gsfc.nasa.gov/api/v2.1/events?status=open";
+            eonet_url = "https://eonet.sci.gsfc.nasa.gov/api/v2.1/events?status=open";
         }
         // Search by category
         else {
