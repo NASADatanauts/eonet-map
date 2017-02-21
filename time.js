@@ -32,7 +32,7 @@ $(function() {
     fmt_hash['AIRS_Dust_Score_Ocean_Night'] = "image/png";
     fmt_hash['AIRS_Prata_SO2_Index_Day'] = "image/png";
     fmt_hash['AIRS_Prata_SO2_Index_Night'] = "image/png";
-    fmt_hash['AIRS_Precipitation_Day'] = "image/png";
+    fmt_hash['AMSR2_Surface_Precipitation_Rate_Day'] = "image/png";
     fmt_hash['AIRS_Precipitation_Night'] = "image/png";
     fmt_hash['MODIS_Aqua_Aerosol'] = "image/png";
     fmt_hash['MODIS_Aqua_Brightness_Temp_Band31_Day'] = "image/png";
@@ -68,7 +68,7 @@ $(function() {
     matrix_hash['AIRS_Dust_Score_Ocean_Night'] = "EPSG4326_2km";
     matrix_hash['AIRS_Prata_SO2_Index_Day'] = "EPSG4326_2km";
     matrix_hash['AIRS_Prata_SO2_Index_Night'] = "EPSG4326_2km";
-    matrix_hash['AIRS_Precipitation_Day'] = "EPSG4326_2km";
+    matrix_hash['AMSR2_Surface_Precipitation_Rate_Day'] = "EPSG4326_2km";
     matrix_hash['AIRS_Precipitation_Night'] = "EPSG4326_2km";
     matrix_hash['MODIS_Aqua_Aerosol'] = "EPSG4326_2km";
     matrix_hash['MODIS_Aqua_Brightness_Temp_Band31_Day'] = "EPSG4326_1km";
